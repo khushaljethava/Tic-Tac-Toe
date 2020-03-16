@@ -2,4 +2,9 @@
 
 A python implementation of a text based/terminal Tic Tac Toe game.
 
-![Alt text](/image.png)
+# ScreenShorts
+
+![Alt text](/tic1.png)
+
+
+![Alt text](/tic2.png)
